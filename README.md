@@ -23,11 +23,11 @@ To be able to detect chip flaws without slowing down the packaging process, the 
 While haliem Semiconductors has plenty of revenue to install a quality system, this is still a significant investment and they would ideally like it to last for at least 5-10 years.
 
 ### Analysis for Manufacturing Scenario
-<p>
-| <img src="images/M_lt.png"> | <img src="images/M_it.png"> | <img src="images/M_fps.png"> |
-|:---:|:---:|:---:|
-| Model Load time | Inference time | Frames per second|
- </p>
+
+|<img src="images/M_lt.png"> | <img src="images/M_it.png"> | <img src="images/M_fps.png">| 
+|:--------------------------:|:---------------------------:|:--------------------------:|
+|Model Load time | Inference time | Frames per second|
+ 
 
 <br>
 <br>
@@ -47,11 +47,11 @@ Most of the store's checkout counters already have a modern computer, each of wh
 Mr. Lin employs close to 300 employees, including staff that work in transportation, on the store floor, and at the checkout counter. Although the store's annual sales are $7 million in food alone, the net profit is only about 1.1% of this. Mr. Lin also believes in giving fair employment and good wages. He pays his staff with proper salaries, along with substantial bonuses twice a year. As a result, Mr. Lin does not have much money to invest in additional hardware, and also would like to save as much as possible on his electric bill.
 
 ### Analysis for Retail Scenario
-<p>
+
 | <img src="images/R_lt.png"> | <img src="images/R_it.png"> | <img src="images/R_fps.png"> |
 |:---:|:---:|:---:|
 | Model load time | Inference time | Frames per second|
- </p>
+
 
 <br>
 <br>
@@ -67,8 +67,8 @@ In peak hours they currently have over 15 people on average in a single queue ou
 They monitor the entire situation with 8 CCTV cameras on the platform. These are connected to closed All-In-One PCs that are located in a nearby security booth. The CPUs in these machines are currently being used to process and view CCTV footage for security purposes and no significant additional processing power is available to run inference. Ms. Leah's budget allows for a maximum of $300 per machine, and she would like to save as much as possible both on hardware and future power requirements.
 
 ### Analysis for Transportation Scenario
-<p>
+
 | <img src="images/T_lt.png"> | <img src="images/T_it.png"> | <img src="images/T_fps.png"> |
 |:---:|:---:|:---:|
 | Model Load time | Inference time | Frames per second|
- </p>
+ 
