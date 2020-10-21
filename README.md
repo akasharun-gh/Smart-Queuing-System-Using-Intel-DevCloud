@@ -22,7 +22,7 @@ To be able to detect chip flaws without slowing down the packaging process, the 
 
 While haliem Semiconductors has plenty of revenue to install a quality system, this is still a significant investment and they would ideally like it to last for at least 5-10 years.
 
-### Analysis for Manufacturing Scenario
+**Analysis for Manufacturing Scenario**
 
 |<img src="images/M_lt.png"> | <img src="images/M_it.png"> | <img src="images/M_fps.png">| 
 |:--------------------------:|:---------------------------:|:--------------------------:|
@@ -31,6 +31,7 @@ While haliem Semiconductors has plenty of revenue to install a quality system, t
 
 <br>
 <br>
+
 **Scenario 2: Retail** <br> 
 PriceRight Singapore has one of its smaller outlets in the tiny neighborhood of Dover. Mr. Lin is the store manager—and like any good store manager, he wants to use Edge AI to help maximize his profit this year.
 
@@ -46,7 +47,7 @@ Most of the store's checkout counters already have a modern computer, each of wh
 
 Mr. Lin employs close to 300 employees, including staff that work in transportation, on the store floor, and at the checkout counter. Although the store's annual sales are $7 million in food alone, the net profit is only about 1.1% of this. Mr. Lin also believes in giving fair employment and good wages. He pays his staff with proper salaries, along with substantial bonuses twice a year. As a result, Mr. Lin does not have much money to invest in additional hardware, and also would like to save as much as possible on his electric bill.
 
-### Analysis for Retail Scenario
+**Analysis for Retail Scenario**
 
 | <img src="images/R_lt.png"> | <img src="images/R_it.png"> | <img src="images/R_fps.png"> |
 |:---:|:---:|:---:|
@@ -55,6 +56,7 @@ Mr. Lin employs close to 300 employees, including staff that work in transportat
 
 <br>
 <br>
+
 **Scenario 3: Transporation** <br>
 Ms. Leah is the Innovation head for Delhi Metro Rail Services. Delhi Metro is an urban passenger transportation system connecting Ghaziabad, Faridabad, Gurgaon, Noida, Bahadurgarh, and Ballabhgarh in the National Capital Region of India. Delhi Metro makes 2,700 trips every day and is one of the busiest metros in India.
 
@@ -66,7 +68,7 @@ In peak hours they currently have over 15 people on average in a single queue ou
 
 They monitor the entire situation with 8 CCTV cameras on the platform. These are connected to closed All-In-One PCs that are located in a nearby security booth. The CPUs in these machines are currently being used to process and view CCTV footage for security purposes and no significant additional processing power is available to run inference. Ms. Leah's budget allows for a maximum of $300 per machine, and she would like to save as much as possible both on hardware and future power requirements.
 
-### Analysis for Transportation Scenario
+**Analysis for Transportation Scenario**
 
 | <img src="images/T_lt.png"> | <img src="images/T_it.png"> | <img src="images/T_fps.png"> |
 |:---:|:---:|:---:|
